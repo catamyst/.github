@@ -1,2 +1,3 @@
 # .github
-Catamyst
+
+Catamyst GitHub Organization Profile.
