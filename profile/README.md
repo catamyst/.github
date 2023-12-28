@@ -1,13 +1,9 @@
 <!-- CATAMYST -->
 <p align="center">
-  <a href="https://github.com/catamyst/catamyst">
-    <img src="https://raw.githubusercontent.com/catamyst/.github/main/assets/catamyst-logo.png" alt="Catamyst" height="51" />
-  </a>
-
   <h3 align="center">🐱 Catamyst</h3>
 
   <p align="center">
-    a place to learn & build website, apps, and software
+    Catalyzed Agency and Software House
   </p>
 
   <p align="center">
